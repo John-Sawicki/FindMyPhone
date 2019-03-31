@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Help"
+          android:id="@+id/help"
+          android:icon="@android:drawable/sym_def_app_icon"
+          app:showAsAction="always"/>
+    <item android:title="Add Tracker"
+          android:id="@+id/addTracker"/>
+    <item android:title="Add"
+          android:id="@+id/add"/>
+    <item android:title="Phone Number"
+          android:id="@+id/phone_number"/>
+</menu>
