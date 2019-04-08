@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <item android:title="ADD"
-          android:id="@+id/addContent"
+    <item android:title="Finish Activity"
+          android:id="@+id/finish_activity"
           android:icon="@android:drawable/ic_menu_add"
           app:showAsAction="always"/>
-    <item android:title="Finish"
-          android:id="@+id/finish"
+    <item android:title="Add Contact"
+          android:id="@+id/add_contact"
           android:icon="@android:drawable/checkbox_on_background"
           app:showAsAction="always"/>
 </menu>
